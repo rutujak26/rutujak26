@@ -1,5 +1,5 @@
 ### Hi there I'm Rutuja Kulkarni👋
-[LinkedIN](https://www.linkedin.com/in/rutuja-kulkarni-64839b170/)
+![Logo](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)[Linkedin](https://www.linkedin.com/in/rutuja-kulkarni-64839b170/)
 <!--
 **rutujak26/rutujak26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
